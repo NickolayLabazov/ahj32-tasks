@@ -1,0 +1,26 @@
+.task{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px; 
+    justify-content: space-between;  
+}
+
+.pin{
+    width: 27px;
+    height: 27px;
+    border-radius: 15px;
+    margin: 2px;   
+    padding-left: 5px;
+    /* padding-right: -5px;   */
+    border: 1px solid black;  
+    
+}
+
+p{    
+    margin: 2px  0px 0px 6px;
+    padding: 0;
+     
+}
